@@ -8,4 +8,4 @@ This version is based on [jasper-lu](github.com/jasper-lu)'s work but with sligh
 
 #####Observations
 
-This package works with [accounts-facebook-ddp](github.com/FranciscoVictor/accounts-facebook-ddp), so please follow these [instructions](https://github.com/FranciscoVictor/accounts-facebook-ddp/blob/master/README.md) to use it.
+This package works with [accounts-facebook-ddp](github.com/FranciscoVictor/accounts-facebook-ddp), so please follow these [instructions](https://github.com/FranciscoVictor/accounts-facebook-ddp/blob/master/README.md#instructions) to use it.
